@@ -8,4 +8,4 @@ Bu konsol uygulaması, kullanıcıdan film adı ve IMDB puanı alarak bir film l
 
 Kullanıcı girdileri doğrulanır ve hatalı girişlerde tekrar denemesi istenir.
 
-Proje, basit C# yapılarıyla (if, while, foreach) geliştirilmiştir. LINQ gibi ileri seviye yapılar kullanılmamıştır.
+Proje, basit C# yapılarıyla (if, while, foreach) geliştirilmiştir. 
